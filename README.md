@@ -1,4 +1,3 @@
-# Floaty-Astronaut
 <h1>As A Lost Astronaut In Space Your Mission Is To Return To Your Spaceship Quickly, You Have To Avoid Spikes In Your Way Home.</h1>
 <h4> •  The Project Mainly An Interactive Game, Which Is Graphically Beautiful, Technically Interesting, And Just Generally Impresses Us.
 Project Has A Significant Amount Of Technically Interesting Work. </h4>
@@ -14,7 +13,10 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <p>&nbsp;&nbsp;&nbsp; 3 - Score Counter</p>
 <p>&nbsp;&nbsp;&nbsp; 4 - Control Buttons ( Play, Pause and Exit )</p>
 
+<h2> Some Snippets </h2>
 
+![2d1](https://user-images.githubusercontent.com/60596766/169454198-f81de358-c0c3-4725-9ccb-31ea56eae924.png)
 
+![2d2](https://user-images.githubusercontent.com/60596766/169454209-9c8b4271-158f-497d-baaa-1b27c5479426.png)
 
- 
+![2d3](https://user-images.githubusercontent.com/60596766/169454231-10643e55-f338-45cb-9e6b-fd75c05eed2e.png)
