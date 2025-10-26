@@ -1,7 +1,4 @@
-<h1>As A Lost Astronaut In Space Your Mission Is To Return To Your Spaceship Quickly, You Have To Avoid Spikes In Your Way Home.</h1>
-<h4> •  The Project Mainly An Interactive Game, Which Is Graphically Beautiful, Technically Interesting, And Just Generally Impresses Us.
-Project Has A Significant Amount Of Technically Interesting Work. </h4>
-<hr>
+<h1>As A Lost Astronaut In Space. You Have To Avoid Spikes.</h1>
 <h2>Game Description : </h2>
 <p> • Choose A Character As Astronaut Fly in Space and Need To Get Best Score of Skipping the Spikes </p>
 <p> • But You'll Die If You Hit The Spikes </p>
